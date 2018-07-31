@@ -1,11 +1,7 @@
 {
-  "name": "Expense Tracker",
+  "name": "Expense_Tracker",
   "version": "0.0.1",
   "description": "A boilerplate for Node.js web applications",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/sujameslin/expense-tracker.git"
-  },
   "author": "...",
   "license": "MIT",
   "scripts": {
